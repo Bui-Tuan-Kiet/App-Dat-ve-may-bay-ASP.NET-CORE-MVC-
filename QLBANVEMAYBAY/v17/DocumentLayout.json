@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\tracuuchuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\tracuuchuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|d:\\sql\\b\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\hangve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\hangve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\hangve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\hangve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\datcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\datcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\tuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\tuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\datcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\datcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\tuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\tuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\sanbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\sanbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\lichbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\lichbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\sanbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\sanbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\lichbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\lichbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\quydinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\quydinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\quydinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\quydinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\tracuuchuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\tracuuchuyenbay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\quydinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\quydinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\lichbay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\lichbay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\tuyenbay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\tuyenbay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\datcho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\datcho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\qlbanvemaybay\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E996CD37-64F8-4778-8FD7-4831239DF793}|QLBANVEMAYBAY\\QLBANVEMAYBAY.csproj|solutionrelative:qlbanvemaybay\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\KhachHang.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\KhachHang.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:49.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DangNhap.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DangNhap.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\DangNhap.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:37:55.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangVe.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\HangVe.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\HangVe.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\HangVe.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\HangVe.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangVe.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\HangVe.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\HangVe.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\HangVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraCuuChuyenBay.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TraCuuChuyenBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\TraCuuChuyenBay.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TraCuuChuyenBay.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\TraCuuChuyenBay.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:37:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatCho.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DatCho.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DatCho.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DatCho.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\DatCho.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:48.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatCho.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DatCho.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DatCho.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DatCho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TuyenBay.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TuyenBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\TuyenBay.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TuyenBay.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\TuyenBay.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAADwv4wAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\KhachHang.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\KhachHang.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\KhachHang.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\KhachHang.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TuyenBay.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TuyenBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\TuyenBay.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TuyenBay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuyDinh.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\QuyDinh.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\QuyDinh.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\QuyDinh.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\QuyDinh.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwDQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuyDinh.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\QuyDinh.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\QuyDinh.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\QuyDinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SanBay.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\SanBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\SanBay.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\SanBay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LichBay.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\LichBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\LichBay.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\LichBay.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\LichBay.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanBay.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\SanBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\SanBay.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\SanBay.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\SanBay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LichBay.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\LichBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\LichBay.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\LichBay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuyDinh.Designer.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\QuyDinh.Designer.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\QuyDinh.Designer.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\QuyDinh.Designer.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\QuyDinh.Designer.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAswPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-18T06:37:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TraCuuChuyenBay.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TraCuuChuyenBay.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\TraCuuChuyenBay.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TraCuuChuyenBay.cs [Design]",
+              "RelativeToolTip": "QLBANVEMAYBAY\\TraCuuChuyenBay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:37:56.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoanhThu.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DoanhThu.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DoanhThu.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DoanhThu.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\DoanhThu.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DoanhThu.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DoanhThu.cs",
+              "ToolTip": "C:\\VS 2022\\project\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\QLBANVEMAYBAY\\DoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\NhanVien.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\NhanVien.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\NhanVien.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\NhanVien.cs",
+              "ToolTip": "C:\\VS 2022\\project\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\QLBANVEMAYBAY\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoiMatKhau.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DoiMatKhau.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DoiMatKhau.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\DoiMatKhau.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DoiMatKhau.cs",
+              "ToolTip": "C:\\VS 2022\\project\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\QLBANVEMAYBAY\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\Main.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\Main.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\Main.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\Main.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\Main.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\Main.cs",
+              "ToolTip": "C:\\VS 2022\\project\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\LAB-\u0110\u1ED2 \u00C1N CU\u1ED0I K\u1EF2-NH\u00D3M 6\\QLBANVEMAYBAY\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DangNhap.cs",
+              "ToolTip": "C:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T06:37:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LichBay.Designer.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\LichBay.Designer.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\LichBay.Designer.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\LichBay.Designer.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\LichBay.Designer.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAASwPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-18T06:37:56.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TuyenBay.Designer.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TuyenBay.Designer.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\TuyenBay.Designer.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\TuyenBay.Designer.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\TuyenBay.Designer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAEwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-18T06:37:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DatCho.Designer.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DatCho.Designer.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DatCho.Designer.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DatCho.Designer.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\DatCho.Designer.cs",
+              "ViewState": "AQIAABsBAAAAAAAAAAAAACsBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-18T06:37:56.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\DangNhap.Designer.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\DangNhap.Designer.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\DangNhap.Designer.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAswKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-18T06:37:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\Connection.cs",
+              "RelativeDocumentMoniker": "QLBANVEMAYBAY\\Connection.cs",
+              "ToolTip": "D:\\SQL\\B\u00E0i t\u1EADp qu\u1EA3n l\u00FD v\u00E9 m\u00E1y bay\\QLBANVEMAYBAY\\Connection.cs",
+              "RelativeToolTip": "QLBANVEMAYBAY\\Connection.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:37:56.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
